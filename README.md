@@ -1,1 +1,7 @@
-This was forked from [jmerle/competitive-companion](https://github.com/jmerle/competitive-companion). [My changes](https://github.com/jmerle/competitive-companion/pull/122) have been merged into the upstream repository, so please refer to that one instead.
+This was forked from [jmerle/competitive-companion](https://github.com/jmerle/competitive-companion), so please refer to that instead.
+
+My changes ([see all](https://github.com/jmerle/competitive-companion/pulls?q=author%3Aanandoza)):
+
+![GitHub pull request detail](https://img.shields.io/github/pulls/detail/state/jmerle/competitive-companion/122?label=) [Add parser for TLX (tlx.toki.id)](https://github.com/jmerle/competitive-companion/pull/122)
+
+![GitHub pull request detail](https://img.shields.io/github/pulls/detail/state/jmerle/competitive-companion/123?label=) [Fix CSES parser to exclude code blocks in statement.](https://github.com/jmerle/competitive-companion/pull/123)
